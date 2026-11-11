@@ -10,6 +10,7 @@
 
 - [프로젝트 기획서](product/project-plan.md)
 - [기능 명세서](product/feature-spec.md)
+- [제품 정책서](product/product-policy.md)
 - [정보 구조도(IA)](product/ia.md)
 - [유저 플로우](product/user-flow.md)
 
@@ -23,9 +24,10 @@
 ```text
 hanmaum-docs/
 ├── README.md
-├── product/                         # 프로젝트 기획서, 기능 명세서, IA, 유저 플로우
+├── product/                         # 프로젝트 기획서, 기능 명세서, 제품 정책서, IA, 유저 플로우
 │   ├── project-plan.md
 │   ├── feature-spec.md
+│   ├── product-policy.md
 │   ├── ia.md
 │   └── user-flow.md
 ├── development/                     # 시스템 아키텍처, CI/CD
