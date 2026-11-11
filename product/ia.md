@@ -1,6 +1,6 @@
 # 한마음 정보 구조도
 
-![한마음 정보 구조도. 서비스 진입 화면과 돌봄 공간의 다섯 탭을 보여 준다.](../assets/infomation-architecture/Information%20Architecture.png)
+![한마음 정보 구조도. 서비스 진입 화면과 돌봄 공간의 다섯 탭을 보여 준다.](../assets/information-architecture/Information%20Architecture.png)
 
 한마음의 화면은 **서비스 진입**과 **돌봄 공간**으로 나뉜다. 서비스 진입에는 시작 화면, 로그인, 돌봄 공간 선택·생성, 초대받은 가족의 참여 화면이 있다.
 
