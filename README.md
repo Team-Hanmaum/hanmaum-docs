@@ -21,6 +21,44 @@
 - [개발 워크플로우](development/workflow.md)
 - [API 안내](development/api.md)
 
+## 주요 다이어그램
+
+### 정보 구조도(IA)
+
+![한마음의 서비스 진입 화면과 돌봄 공간의 다섯 탭을 보여 주는 정보 구조도](assets/information-architecture/Information%20Architecture.png)
+
+### 시스템 아키텍처
+
+![Vercel 프론트엔드와 AWS Lightsail의 백엔드·AI·데이터베이스 구성](assets/development/system-architecture.png)
+
+<details>
+<summary>유저 플로우 4장</summary>
+
+**01. 첫 진입·돌봄 공간 만들기**
+
+![로그인 상태와 참여 공간 수에 따라 돌봄 공간 홈에 진입하는 흐름](assets/userflow/01-userflow.png)
+
+**02. 가족 초대·참여**
+
+![초대 링크를 보내고 받은 가족이 돌봄 공간에 참여하는 흐름](assets/userflow/02-userflow.png)
+
+**03. 소식 남기기·AI 분석**
+
+![소식 원문을 등록하고 AI 분석 결과를 확인하는 흐름](assets/userflow/03-userflow.png)
+
+**04. 제안 검토·반영**
+
+![AI 제안을 검토하고 구성원과 소유자의 역할에 따라 반영하는 흐름](assets/userflow/04-userflow.png)
+
+</details>
+
+<details>
+<summary>CI/CD</summary>
+
+![GitHub Actions에서 프론트엔드를 Vercel에, 백엔드와 AI를 Lightsail에 배포하는 흐름](assets/development/ci-cd.png)
+
+</details>
+
 ## 📁 폴더 구조
 
 ```text
