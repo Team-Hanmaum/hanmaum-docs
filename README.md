@@ -31,6 +31,10 @@
 
 ![Vercel 프론트엔드와 AWS Lightsail의 백엔드·AI·데이터베이스 구성](assets/development/system-architecture.png)
 
+### ERD
+
+![한마음 데이터베이스 ERD](assets/development/Hanmaum%20ERD.png)
+
 ### CI/CD
 
 ![GitHub Actions에서 프론트엔드를 Vercel에, 백엔드와 AI를 Lightsail에 배포하는 흐름](assets/development/ci-cd.png)
@@ -75,6 +79,7 @@ hanmaum-docs/
 │   └── .gitkeep
 └── assets/                          # 문서에서 함께 사용하는 그림과 도표
     ├── development/
+    │   ├── Hanmaum ERD.png
     │   ├── ci-cd.png
     │   └── system-architecture.png
     ├── information-architecture/
