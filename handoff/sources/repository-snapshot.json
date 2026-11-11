@@ -1,0 +1,32 @@
+{
+  "capturedAt": "2026-10-01 KST",
+  "workspace": "C:/dev/Hanmaum",
+  "workspaceIsGitRepository": false,
+  "repositories": [
+    {
+      "repo": "hanmaum-frontend",
+      "head": "35672e82e7d47ddd9af9f85b96f1a690f2356352",
+      "branch": "dev",
+      "status": [],
+      "workingTreeClean": true
+    },
+    {
+      "repo": "hanmaum-backend",
+      "head": "be7f1314d4479d5476cd941764ac475e0f911d4d",
+      "branch": "dev",
+      "status": [],
+      "workingTreeClean": true
+    },
+    {
+      "repo": "hanmaum-ai",
+      "head": "8ce260b49fcb96ef4f7f06b6594440cf232f68cc",
+      "branch": "dev",
+      "status": [],
+      "workingTreeClean": true
+    }
+  ],
+  "remoteFetched": false,
+  "applicationTestsRun": false,
+  "sourceCodeModified": false,
+  "externalDocumentsModified": false
+}
