@@ -32,7 +32,7 @@
 ![Vercel 프론트엔드와 AWS Lightsail의 백엔드·AI·데이터베이스 구성](assets/development/system-architecture.png)
 
 <details>
-<summary>유저 플로우 4장</summary>
+<summary><h3>유저 플로우 4장</h3></summary>
 
 **01. 첫 진입·돌봄 공간 만들기**
 
@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary>CI/CD</summary>
+<summary><h3>CI/CD</h3></summary>
 
 ![GitHub Actions에서 프론트엔드를 Vercel에, 백엔드와 AI를 Lightsail에 배포하는 흐름](assets/development/ci-cd.png)
 
