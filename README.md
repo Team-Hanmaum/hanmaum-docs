@@ -18,6 +18,8 @@
 
 - [시스템 아키텍처](development/architecture.md)
 - [CI/CD](development/ci-cd.md)
+- [개발 워크플로우](development/workflow.md)
+- [API 안내](development/api.md)
 
 ## 📁 폴더 구조
 
@@ -30,9 +32,11 @@ hanmaum-docs/
 │   ├── product-policy.md
 │   ├── ia.md
 │   └── user-flow.md
-├── development/                     # 시스템 아키텍처, CI/CD
+├── development/                     # 시스템 아키텍처, CI/CD, 개발 워크플로우, API 안내
 │   ├── architecture.md
-│   └── ci-cd.md
+│   ├── ci-cd.md
+│   ├── workflow.md
+│   └── api.md
 ├── reports/                         # 졸업작품 결과보고서 원본 및 제출용 PDF
 │   └── .gitkeep
 ├── presentation/                    # 졸업작품 포스터 및 발표 자료
