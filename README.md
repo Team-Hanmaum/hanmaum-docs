@@ -31,8 +31,7 @@
 
 ![Vercel 프론트엔드와 AWS Lightsail의 백엔드·AI·데이터베이스 구성](assets/development/system-architecture.png)
 
-<details>
-<summary><h3>유저 플로우 4장</h3></summary>
+### 유저 플로우 4장
 
 **01. 첫 진입·돌봄 공간 만들기**
 
@@ -50,14 +49,9 @@
 
 ![AI 제안을 검토하고 구성원과 소유자의 역할에 따라 반영하는 흐름](assets/userflow/04-userflow.png)
 
-</details>
-
-<details>
-<summary><h3>CI/CD</h3></summary>
+### CI/CD
 
 ![GitHub Actions에서 프론트엔드를 Vercel에, 백엔드와 AI를 Lightsail에 배포하는 흐름](assets/development/ci-cd.png)
-
-</details>
 
 ## 📁 폴더 구조
 
