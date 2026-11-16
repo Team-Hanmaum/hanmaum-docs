@@ -2,7 +2,7 @@
 
 한마음은 가족이 부모님의 돌봄 소식을 함께 기록하고 필요한 일정을 챙기는 웹앱입니다. AI가 소식을 분석해 일정·할 일·확인사항을 제안하면, 가족이 검토하고 공간 소유자가 반영을 확정합니다.
 
-`hanmaum-docs`는 한마음의 프로젝트 기획서, 기능 명세서, 제품 정책서와 FE·BE·AI 공통 개발 문서를 관리하는 저장소입니다.
+`hanmaum-docs`는 한마음의 프로젝트 기획서, 기능 명세서, 제품 정책서, FE·BE·AI 공통 개발 문서와 졸업작품 제출 자료를 관리하는 저장소입니다.
 
 ## 문서 바로가기
 
@@ -20,6 +20,11 @@
 - [CI/CD](development/ci-cd.md)
 - [개발 워크플로우](development/workflow.md)
 - [API 안내](development/api.md)
+
+### 졸업작품 제출 자료
+
+- [최종 결과보고서 (PDF)](reports/hanmaum-final-report.pdf)
+- [졸업작품 포스터 (PNG)](presentation/poster.png)
 
 ## 주요 다이어그램
 
@@ -72,7 +77,7 @@ hanmaum-docs/
 │   ├── architecture.md              # 시스템 아키텍처
 │   ├── ci-cd.md                     # CI/CD
 │   ├── workflow.md                  # 개발 워크플로우
-│   └── api.md                       # API 명세서
+│   └── api.md                       # API 안내
 ├── reports/                      
 │   └── hanmaum-final-report.pdf     # 결과보고서
 ├── presentation/                    
