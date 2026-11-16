@@ -24,7 +24,7 @@
 ### 졸업작품 제출 자료
 
 - [최종 결과보고서 (PDF)](reports/hanmaum-final-report.pdf)
-- 졸업작품 포스터 · [PDF](presentation/hanmaum_poster.pdf) · [PNG](presentation/hanmaum_poster.png)
+- 졸업작품 포스터 · [PDF 다운로드](https://github.com/Team-Hanmaum/hanmaum-docs/raw/refs/heads/main/presentation/hanmaum_poster.pdf) · [PNG 보기](presentation/hanmaum_poster.png)
 - 시연 영상
   - [유튜브](https://youtu.be/ZV85RNDNapc)
   - [구글 드라이브에서 영상 보기](https://drive.google.com/file/d/1XrdsLAh_Q__EN4v-qdqcfzxiBLlVclDB/view?usp=drivesdk)
