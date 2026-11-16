@@ -62,21 +62,21 @@
 ```text
 hanmaum-docs/
 ├── README.md
-├── product/                         # 프로젝트 기획서, 기능 명세서, 제품 정책서, IA, 유저 플로우
-│   ├── project-plan.md
-│   ├── feature-spec.md
-│   ├── product-policy.md
-│   ├── ia.md
-│   └── user-flow.md
-├── development/                     # 시스템 아키텍처, CI/CD, 개발 워크플로우, API 안내
-│   ├── architecture.md
-│   ├── ci-cd.md
-│   ├── workflow.md
-│   └── api.md
+├── product/                         
+│   ├── project-plan.md              # 프로젝트 기획서
+│   ├── feature-spec.md              # 기능 명세서
+│   ├── product-policy.md            # 제품 정책서
+│   ├── ia.md                        # 정보 구조도
+│   └── user-flow.md                 # 유저 플로우
+├── development/                     
+│   ├── architecture.md              # 시스템 아키텍처
+│   ├── ci-cd.md                     # CI/CD
+│   ├── workflow.md                  # 개발 워크플로우
+│   └── api.md                       # API 명세서
 ├── reports/                         # 졸업작품 결과보고서 원본 및 제출용 PDF
 │   └── .gitkeep
-├── presentation/                    # 졸업작품 포스터 및 발표 자료
-│   └── .gitkeep
+├── presentation/                    
+│   └── poster.png                   # 졸업작품 포스터
 └── assets/                          # 문서에서 함께 사용하는 그림과 도표
     ├── development/
     │   ├── Hanmaum ERD.png
