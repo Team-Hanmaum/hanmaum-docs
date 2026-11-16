@@ -73,8 +73,8 @@ hanmaum-docs/
 │   ├── ci-cd.md                     # CI/CD
 │   ├── workflow.md                  # 개발 워크플로우
 │   └── api.md                       # API 명세서
-├── reports/                         # 졸업작품 결과보고서 원본 및 제출용 PDF
-│   └── .gitkeep
+├── reports/                      
+│   └── hanmaum-final-report.pdf     # 결과보고서
 ├── presentation/                    
 │   └── poster.png                   # 졸업작품 포스터
 └── assets/                          # 문서에서 함께 사용하는 그림과 도표
