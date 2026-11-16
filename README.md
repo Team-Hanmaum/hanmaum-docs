@@ -24,7 +24,7 @@
 ### 졸업작품 제출 자료
 
 - [최종 결과보고서 (PDF)](reports/hanmaum-final-report.pdf)
-- [졸업작품 포스터 (PNG)](presentation/poster.png)
+- 졸업작품 포스터 · [PDF](presentation/hanmaum_poster.pdf) · [PNG](presentation/hanmaum_poster.png)
 - 시연 영상
   - [유튜브](https://youtu.be/ZV85RNDNapc)
   - [구글 드라이브에서 영상 보기](https://drive.google.com/file/d/1XrdsLAh_Q__EN4v-qdqcfzxiBLlVclDB/view?usp=drivesdk)
@@ -83,9 +83,9 @@ hanmaum-docs/
 │   └── api.md                       # API 안내
 ├── reports/                      
 │   └── hanmaum-final-report.pdf     # 결과보고서
-├── presentation/                    
-│   └── hanmaum_poster.png                   # 졸업작품 포스터
+├── presentation/                    # 졸업작품 포스터
 │   ├── hanmaum_poster.pdf
+│   └── hanmaum_poster.png
 └── assets/                          # 문서에서 함께 사용하는 그림과 도표
     ├── development/
     │   ├── Hanmaum ERD.png
